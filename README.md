@@ -29,6 +29,6 @@ The objective of this project is to analyse textual review data using natural la
 - Communicating insights through written reporting
 
 ## Files
-- `python_text_analytics_report.pdf` – Full analysis report including methodology, results, and discussion
+-  Full analysis report including methodology, results, and discussion
 
 This project demonstrates my ability to use Python for applied analytics beyond basic data analysis, particularly in working with unstructured text data.
